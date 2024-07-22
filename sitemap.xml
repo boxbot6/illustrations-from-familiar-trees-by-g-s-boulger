@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/</loc>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-1a-horse-chestnut-familiar-trees-by-g-s-boulger.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-1b-horse-chestnut-familiar-trees-by-g-s-boulger.jpg</image:loc>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/thumbnails/1-1a-horse-chestnut-familiar-trees-by-g-s-boulger-thumb.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/thumbnails/1-1b-horse-chestnut-familiar-trees-by-g-s-boulger-thumb.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

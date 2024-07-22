@@ -1,0 +1,4 @@
+Sitemap: https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/sitemap.xml
+
+User-agent: *
+Disallow:
